@@ -1,5 +1,5 @@
-- 👋 Hey, My name is kanav.
-- 👀 I’m a btech second year student.
+- 👋 Hey, My name is kanav kumar.
+- 👀 I’m a btech third year student.
 - I'm a frontend developer.
 - 🌱Right now i'm learning backend...
 - 💞️ I’m looking for collaboration because i want to gain professional work experience  ...
