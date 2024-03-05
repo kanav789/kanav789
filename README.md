@@ -1,4 +1,4 @@
-- 👋 Hey, My name is kanav kumar.
+- 👋 Hey, My name is kanav kumar Rana.
 - 👀 I’m a btech third year student.
 - I'm a frontend developer.
 - 🌱Right now i'm learning backend...
