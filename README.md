@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanav Kumar Rana</h1>
-<h3 align="center">Aspiring Full Stack Developer with Hands-On Experience in Front-End and Back-End Technologies | B.E. Computer Science Engineering Student"</h3>
- <img src="C:\Users\kkana\OneDrive\Desktop\kanu.jpg" alt="">
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanav789&label=Profile%20views&color=0e75b6&style=flat" alt="kanav789" /> </p>
 
@@ -8,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
 
-- 🔭 I’m currently working on [Sharing Web App](https://github.com/kanav789/ShairngMeme)
+- 🔭 I’m currently working on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
-- 🌱 I’m currently learning [DSA](https://github.com/kanav789/dsa-withc-and-js)
+- 🌱 I’m currently learning **Dsa**
 
 - 👯 I’m looking to collaborate on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
@@ -32,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanav789&show_icons=true&locale=en&layout=compact" alt="kanav789" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanav789&show_icons=true&locale=en" alt="kanav789" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav789&" alt="kanav789" /></p>
