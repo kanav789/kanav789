@@ -10,9 +10,7 @@
 - 🔭 I’m currently working on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
 - 🌱 I’m currently learning **Dsa**
-
-- 👯 I’m looking to collaborate on [Sharing Web App](https://github.com/kanav789/SharingApp)
-
+- 
 - 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://kanavport.netlify.app)
 
 - 💬 Ask me about **Mern Stack**
