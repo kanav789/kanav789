@@ -10,7 +10,9 @@
 - 🔭 I’m currently working on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
 - 🌱 I’m currently learning **Dsa**
-  
+
+- 👯 I’m looking to collaborate on [Sharing Web App](https://github.com/kanav789/SharingApp)
+
 - 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://kanavport.netlify.app)
 
 - 💬 Ask me about **Mern Stack**
@@ -30,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanav789&show_icons=true&locale=en&layout=compact" alt="kanav789" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanav789&show_icons=true&locale=en" alt="kanav789" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanav789&" alt="kanav789" /></p>
