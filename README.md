@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
-- 🌱 I’m currently learning **Dsa**
+- 🌱 I’m currently learning **Dsa** and **Solidity**
 
 - 👯 I’m looking to collaborate on [Sharing Web App](https://github.com/kanav789/SharingApp)
 
