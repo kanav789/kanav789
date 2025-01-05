@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
 
-- 🌱 I’m currently learning **Dsa** and **Solidity**
+- 🌱 I’m currently learning **Dsa**
 
 - 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://kanavport.netlify.app)
 
