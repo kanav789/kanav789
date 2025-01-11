@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
 
-- 🔭 I’m currently working on [Uber Personal Project]([https://github.com/kanav789/Uber])
+- 🔭 I’m currently working on [Uber Personal Project](https://github.com/kanav789/Uber)
 
 - 🌱 I’m currently learning **Dsa**
 
