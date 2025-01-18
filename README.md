@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://kanavport.netlify.app)
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **kanavrana91@gmail.com**
 
