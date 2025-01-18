@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Dsa**
 
-- 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://kanavport.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kanavport.netlify.app]((https://sandy-crocus-c12.notion.site/Portfolio-a5d721fc5e8e4e419c0293fbe02a772b))
 
 - 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **kanavrana91@gmail.com**
+- 📫 How to reach me **kanavcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
