@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kanav Kumar Rana</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-k
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanav789&label=Profile%20views&color=0e75b6&style=flat" alt="kanav789" /> </p>
-a
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanav789" alt="kanav789" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
 
-- 🔭 I’m currently working on [Uber Personal Project](https://github.com/kanav789/Uber)
+- 🔭 I’m currently working on [Book a Ride Personal Project](https://github.com/kanav789/Uber)
 
 - 🌱 I’m currently learning **Dsa**
 
-- 👨‍💻 All of my projects are available at [https://kanavport.netlify.app](https://sandy-crocus-c12.notion.site/Portfolio-a5d721fc5e8e4e419c0293fbe02a772b)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sandy-crocus-c12.notion.site/Portfolio-a5d721fc5e8e4e419c0293fbe02a772b)
 
 - 💬 Ask me about **Web Dev**
 
