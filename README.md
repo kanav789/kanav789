@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
 
-- 🔭 I’m currently working on [Book a Ride Personal Project](https://github.com/kanav789/Uber)
-
 - 🌱 I’m currently learning **Dsa**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sandy-crocus-c12.notion.site/Portfolio-a5d721fc5e8e4e419c0293fbe02a772b)
