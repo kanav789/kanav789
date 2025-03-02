@@ -65,3 +65,10 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kanav789/kanav789/output/snake.svg" alt="Snake animation" />
+
+###
