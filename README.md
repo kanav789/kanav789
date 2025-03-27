@@ -1,11 +1,20 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm Kanav Kumar Rana</h1>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanav789&label=Profile%20views&color=0e75b6&style=flat" alt="kanav789" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanav789" alt="kanav789" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/kanavkumarrana1" target="blank"><img src="https://img.shields.io/twitter/follow/kanavkumarrana1?logo=twitter&style=for-the-badge" alt="kanavkumarrana1" /></a> </p>
+
+
+- 🌱 I’m currently learning **Dsa**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://sandy-crocus-c12.notion.site/Portfolio-a5d721fc5e8e4e419c0293fbe02a772b)
+
+- 💬 Ask me about **Web Dev**
+
+- 📫 How to reach me **kanavcontact@gmail.com**
 
 ###
 
