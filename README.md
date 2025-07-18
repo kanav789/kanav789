@@ -18,6 +18,22 @@
 - Ensuring the admin panel is scalable, performant, and easy to use, incorporating features like user management, data visualization, and role-based access.  
 - Participating in agile development processes including planning, code reviews, and testing to deliver high-quality software.  
 
+## 🛠️ My Project Experience
+
+### 1. Fin-Tracker Website  
+**Stack:** NextJs, TypeScript, Shadcn , recharts, MongoDB , Auth.js , Redux
+- Building a finance tracker application for the tracking of personal expenses .
+- Integrated a  graphs for visualising the transactions easily.
+- Trying to implementing a socket.io for the responses.
+
+### 2. Rwear
+**Stack:** MERN (MongoDB, Express, React, Node.js, Jwt, RazorPay) 
+- Developed user authentication system.
+- Enabled users to do add to cart and delete the cart. 
+- Integrated the test mode payment gateway for transaction.
+- Responsive design for mobile and desktop
+
+
 ## 🚀 Let's Connect!
 
 If you have an interesting live project or idea, I’m open to collaboration and eager to contribute my skills.  
