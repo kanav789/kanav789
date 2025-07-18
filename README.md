@@ -1,6 +1,66 @@
-# 💫 About Me:
+# 💫 About Me
 
-🔭 I’m currently working in startup as a intern <br>🤝 Open to work with any live project<br>🌱 I’m currently learning Dsa<br>💬 Full Stack Web Developer<br>⚡ Fun fact
+- 🔭 I’m currently working in a startup as an intern  
+- 🤝 Open to work with any live project  
+- 🌱 I’m currently learning Data Structures and Algorithms (DSA) with a structured 3-month plan  
+- 💬 Full Stack Web Developer  
+- ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
+
+## 🧑‍💻 Work Experience
+
+### Web Development Intern  
+**Company:** Startup (Current)  
+**Role:** Full Stack Web Developer  
+**Duration:** [Month/Year] – Present  
+**Responsibilities:**  
+- Collaborating with a dynamic team to deliver scalable web applications.  
+- Building and maintaining codebases using the MERN stack, with **Prisma ORM** for database handling and schema generation[3].  
+- Handling user authentication using **Clerk** in Next.js projects and troubleshooting related TypeScript errors[2].  
+- Focusing on **React component development** for UI/UX, improving modal windows, date pickers, custom forms, and user interaction[4].  
+- Leveraging **Next.js** for efficient web app layout, typography, rendering, and deployment[5].  
+- Deploying web applications using **Vercel** and Google Cloud, with an emphasis on free deployment options for Next.js apps[5].  
+- Engaged in code reviews, debugging, and performance optimization.
+
+## 🛠️ My Project Experience
+
+### 1. Portfolio Website  
+**Stack:** React, Node.js, Express, MongoDB  
+- Built a personal portfolio site to showcase my work and resume  
+- Integrated a contact form and projects gallery  
+- Implemented backend APIs for message handling
+
+### 2. Task Manager Web App  
+**Stack:** MERN (MongoDB, Express, React, Node.js) with Prisma ORM  
+- Developed user authentication and task management  
+- Enabled users to create, edit, organize, and delete tasks  
+- Responsive design for mobile and desktop
+
+### 3. E-commerce Dashboard  
+**Stack:** Next.js, Tailwind CSS, Firebase  
+- Dashboard for tracking orders, inventory, and sales  
+- Integrated real-time database and customer notifications  
+- User-friendly analytics and navigation
+
+### 4. Blogging Platform  
+**Stack:** Django, PostgreSQL, Bootstrap  
+- Multi-user blog with post, edit, and comment functionality  
+- Features for search, tagging, and user profiles  
+- Deployed on Heroku for public access
+
+## 📚 What I'm Learning
+
+- **Data Structures and Algorithms:** Enhancing problem-solving and coding interview readiness  
+- **Authentication flows:** Integrating Clerk in Next.js with TypeScript[2]  
+- **Prisma ORM & Database Tools:** Command-line schema generation and usage in MERN stack[3]  
+- **React component troubleshooting:** Special focus on forms and date pickers[4]  
+- **Next.js:** Optimizing layout, typography, and deployment strategies[5]  
+- **Regular expressions:** For validating address formats[1]
+
+## 🚀 Let's Connect!
+
+If you have an interesting live project or idea, I’m open to collaboration and eager to contribute my skills.  
+Feel free to reach out!
+
 
 
 ## 🌐 Socials:
