@@ -22,9 +22,9 @@
 
 ### 1. Email Campaign Scheduler
 **Stack:**  Nodejs, Exppress,  Node-cron, nodemailer, Moment-zone, MongoDB.
-- Building a finance tracker application for the tracking of personal expenses .
-- Integrated a  graphs for visualising the transactions easily.
-- Trying to implementing a socket.io for the responses.
+- Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
+- Automated Delivery: Use cron-based scheduling to automatically send emails to multiple recipients.
+- Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
   
 ### 2. Fin-Tracker Website  
 **Stack:** NextJs, TypeScript, Shadcn , recharts, MongoDB , Auth.js , Redux
