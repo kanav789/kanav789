@@ -21,7 +21,7 @@
 ## 🛠️ My Project Experience
 
 ### 1. Email Campaign Scheduler
-**Stack:**  Nodejs, Exppress,  Node-cron, nodemailer, Moment-zone, MongoDB.
+**Stack:**  Nodejs, Express-js,  Node-cron, nodemailer, Moment-zone, MongoDB.
 - Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
 - Automated Delivery: Use cron-based scheduling to automatically send emails to multiple recipients.
 - Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
