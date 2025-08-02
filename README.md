@@ -20,13 +20,19 @@
 
 ## 🛠️ My Project Experience
 
-### 1. Fin-Tracker Website  
+### 1. Email Campaign Scheduler
+**Stack:**  Nodejs, Exppress,  Node-cron, nodemailer, Moment-zone, MongoDB.
+- Building a finance tracker application for the tracking of personal expenses .
+- Integrated a  graphs for visualising the transactions easily.
+- Trying to implementing a socket.io for the responses.
+  
+### 2. Fin-Tracker Website  
 **Stack:** NextJs, TypeScript, Shadcn , recharts, MongoDB , Auth.js , Redux
 - Building a finance tracker application for the tracking of personal expenses .
 - Integrated a  graphs for visualising the transactions easily.
 - Trying to implementing a socket.io for the responses.
 
-### 2. Rwear
+### 3. Rwear
 **Stack:** MERN (MongoDB, Express, React, Node.js, Jwt, RazorPay) 
 - Developed user authentication system.
 - Enabled users to do add to cart and delete the cart. 
