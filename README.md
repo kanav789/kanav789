@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
 
 ## 🧑‍💻 Work Experience
-### Web Developer Intern  
+### Web Developer  
 **Company:** FasCave (Current)  
 **Role:** Frontend Web Developer  
 **Duration:** [08/2024] – Present  
