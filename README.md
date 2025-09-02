@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭 I’m currently working in a startup as an intern  
+- 🔭 I’m currently working in a startup as an frontend developer 
 - 🤝 Open to work with any live project  
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) with a structured 3-month plan  
 - 💬 Full Stack Web Developer  
