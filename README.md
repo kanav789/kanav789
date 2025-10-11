@@ -1,15 +1,13 @@
 # 💫 About Me
 
-- 🔭 I’m currently working in a startup as an frontend developer 
-- 🤝 Open to work with any live project  
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) with a structured 3-month plan  
+- 🔭 I’m currently working in a startup as an Full Stack developer 
 - 💬 Full Stack Web Developer  
 - ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
 
 ## 🧑‍💻 Work Experience
 ### Web Developer  
 **Company:** FasCave (Current)  
-**Role:** Frontend Web Developer  
+**Role:** Full Stack Developer  
 **Duration:** [08/2024] – Present  
 
 **Responsibilities:**  
