@@ -8,34 +8,17 @@
 ### Web Developer  
 **Company:** FasCave (Current)  
 **Role:** Full Stack Developer  
-**Duration:** [08/2024] – Present  
 
 **Responsibilities:**  
-- Contributing to the development of the Shipdartexpress platform from scratch, focusing on frontend development to create a seamless user experience.  
-- Designing and building the admin panel to enable the company to efficiently manage all Shipdart users and platform operations.  
-- Ensuring the admin panel is scalable, performant, and easy to use, incorporating features like user management, data visualization, and role-based access.  
-- Participating in agile development processes including planning, code reviews, and testing to deliver high-quality software.  
-
-## 🛠️ My Project Experience
-
-### 1. Email Campaign Scheduler
-**Stack:**  Nodejs, Express-js,  Node-cron, nodemailer, Moment-zone, MongoDB.
-- Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
-- Automated Delivery: Use cron-based scheduling to automatically send emails to multiple recipients.
-- Track Campaign Status: Monitor delivery progress with real-time status updates like pending, sent, and failed.
-  
-### 2. Fin-Tracker Website  
-**Stack:** NextJs, TypeScript, Shadcn , recharts, MongoDB , Auth.js , Redux
-- Building a finance tracker application for the tracking of personal expenses .
-- Integrated a  graphs for visualising the transactions easily.
-- Trying to implementing a socket.io for the responses.
-
-### 3. Rwear
-**Stack:** MERN (MongoDB, Express, React, Node.js, Jwt, RazorPay) 
-- Developed user authentication system.
-- Enabled users to do add to cart and delete the cart. 
-- Integrated the test mode payment gateway for transaction.
-- Responsive design for mobile and desktop
+ - Worked as a Frontend Developer on Shipdart, a courier-based platform built from scratch using React and
+   Redux.
+ - Integrated and handled backend APIs, ensuring smooth data flow and seamless frontend–backend
+   communication.
+ - Focused on UI development, improving user experience with clean, responsive interfaces.
+ - Currently working as a MERN Developer on an e-commerce platform, contributing to both frontend and
+   backend.
+ - Built and managed RESTful APIs and handled database operations for scalable data management.
+ - Implemented end-to-end functionality and modern, responsive UI components to deliver a complete user experience.
 
 
 ## 🚀 Let's Connect!
