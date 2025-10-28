@@ -7,7 +7,7 @@
 ## 🧑‍💻 Work Experience
 ### Web Developer  
 **Company:** FasCave (Current)  
-**Role:** Full Stack Developer  
+**Role:** Mern Dev
 
 **Responsibilities:**  
  - Worked as a Frontend Developer on Shipdart, a courier-based platform built from scratch using React and
