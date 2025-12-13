@@ -5,8 +5,10 @@
 - ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
 
 ## 🧑‍💻 Work Experience
+### Frontend Developer
+**Company:** Aqe Digital
 ### Web Developer  
-**Company:** FasCave (Current)  
+**Company:** FasCave 
 **Role:** Mern Dev
 
 **Responsibilities:**  
