@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Work Experience
 ### Frontend Developer
-**Company:** Aqe Digital
+**Company:** Aqe Digital (current)
 ### Web Developer  
 **Company:** FasCave 
 **Role:** Mern Dev
