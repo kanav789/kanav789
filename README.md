@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
 
 ## 🧑‍💻 Work Experience
-### Frontend Developer
+### Sofwtware Engineer
 **Company:** Aqe Digital (current)
 ### Web Developer  
 **Company:** FasCave 
