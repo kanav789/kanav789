@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭 I’m currently working as an Frontend developer 
+- 🔭 I’m currently working as an Full Stack Developer 
 - 💬 Full Stack Web Developer  
 - ⚡ Fun fact: I enjoy exploring new tech and building side projects for fun!  
 
